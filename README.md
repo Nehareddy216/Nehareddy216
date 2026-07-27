@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="ChatGPT Image Jul 27, 2026, 10_49_17 AM.png" alt="Neha Reddy Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Neha Reddy</h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student | Full Stack Java Developer | AI Enthusiast</h3>
 
