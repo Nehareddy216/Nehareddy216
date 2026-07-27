@@ -38,6 +38,14 @@
 - 🌐 Personal Portfolio
 
 ---
+## 📜 Certifications
+
+| Certificate | Issued By | View |
+|-------------|-----------|------|
+| 🌐 Computer Networks and Internet Protocol | NPTEL | 📄 [View Certificate](certificates/nptel%20cn.pdf) |
+| 💻 Operating System Fundamentals | NPTEL | 📄 [View Certificate](certificates/Operating%20System%20Fundamentals.pdf) |
+| 🤖 AI For All | AI for All | 📄 [View Certificate](certificates/AI%20FOR%20ALL%20CERTIFICATE.pdf) |
+| 🧠 Deep Learning | DeepLearning.AI | 📄 [View Certificate](certificates/DEEP%20LEARNING.pdf) |
 
 
 ## 📫 Connect with Me
